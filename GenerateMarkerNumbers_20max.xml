@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project_Logical_EditorPreset>
+   <list name="Version" type="list">
+      <item>
+         <string name="AppName" value="Cubase"/>
+         <int name="AppVersion" value="13"/>
+      </item>
+   </list>
+   <member name="Attributes">
+      <int name="VersionMagic" value="16384"/>
+      <member name="ExpertSetting">
+         <int name="Value" value="1"/>
+         <int name="Min" value="0"/>
+         <int name="Max" value="1"/>
+      </member>
+      <member name="Info">
+         <string name="s" value="" wide="true"/>
+      </member>
+      <list name="Actions" type="obj">
+         <obj class="leActionTargetName" ID="1677172304">
+            <int name="Function" value="327"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686744928">
+               <string name="String" value="_" wide="true"/>
+            </obj>
+            <obj class="LeMagicNamesValue" name="Value2" ID="1677170784">
+               <int name="Value" value="0"/>
+               <int name="Min" value="0"/>
+               <int name="Max" value="3"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677171264">
+            <int name="Function" value="327"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686747136">
+               <string name="String" value="Renumber 1" wide="true"/>
+            </obj>
+            <obj class="LeMagicNamesValue" name="Value2" ID="1677171664">
+               <int name="Value" value="3"/>
+               <int name="Min" value="0"/>
+               <int name="Max" value="3"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677171344">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686743968">
+               <string name="String" value=" " wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686747232">
+               <string name="String" value="" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677172464">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686742336">
+               <string name="String" value="1" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686745408">
+               <string name="String" value="01" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677179984">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686746944">
+               <string name="String" value="2" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686745504">
+               <string name="String" value="02" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677175184">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686745888">
+               <string name="String" value="3" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686750784">
+               <string name="String" value="03" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677175264">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686747040">
+               <string name="String" value="4" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686750688">
+               <string name="String" value="04" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677177744">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686747328">
+               <string name="String" value="5" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686749344">
+               <string name="String" value="05" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677176704">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686748864">
+               <string name="String" value="6" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686751552">
+               <string name="String" value="06" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677176304">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686749824">
+               <string name="String" value="7" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686751840">
+               <string name="String" value="07" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677183344">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686752128">
+               <string name="String" value="8" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686752224">
+               <string name="String" value="08" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677181424">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686746464">
+               <string name="String" value="9" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686752416">
+               <string name="String" value="09" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677184864">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686746560">
+               <string name="String" value="010" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686748288">
+               <string name="String" value="10" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677181584">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686750880">
+               <string name="String" value="101" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686749632">
+               <string name="String" value="11" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677181904">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686749728">
+               <string name="String" value="102" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686752704">
+               <string name="String" value="12" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677181984">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686750016">
+               <string name="String" value="103" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686750976">
+               <string name="String" value="13" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677183104">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686751936">
+               <string name="String" value="104" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686752320">
+               <string name="String" value="14" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677187824">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686752512">
+               <string name="String" value="105" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686752800">
+               <string name="String" value="15" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677188224">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686750112">
+               <string name="String" value="106" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686748384">
+               <string name="String" value="16" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677188864">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686752608">
+               <string name="String" value="107" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686750400">
+               <string name="String" value="17" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677187504">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686748480">
+               <string name="String" value="108" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686752896">
+               <string name="String" value="18" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677186224">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686751072">
+               <string name="String" value="109" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686748960">
+               <string name="String" value="19" wide="true"/>
+            </obj>
+         </obj>
+         <obj class="leActionTargetName" ID="1677186704">
+            <int name="Function" value="330"/>
+            <int name="Type" value="4007"/>
+            <obj class="UStringValue" name="Value1" ID="1686752992">
+               <string name="String" value="020" wide="true"/>
+            </obj>
+            <obj class="UStringValue" name="Value2" ID="1686753088">
+               <string name="String" value="20" wide="true"/>
+            </obj>
+         </obj>
+      </list>
+      <list name="Filter" type="obj">
+         <obj class="leMediaTypeTarget" ID="1680031264">
+            <int name="Digit" value="100"/>
+            <int name="Type" value="200"/>
+            <int name="DomainType" value="0"/>
+            <obj class="LeMediaTypeValue" name="Value1" ID="1677194304">
+               <int name="Val" value="3"/>
+            </obj>
+            <obj class="LeUIntValue" name="Value2" ID="1677195184">
+               <int name="Min" value="0"/>
+               <int name="Max" value="255"/>
+               <int name="Value" value="0"/>
+            </obj>
+         </obj>
+         <obj class="leToken" ID="1920112176">
+            <int name="Digit" value="103"/>
+         </obj>
+         <obj class="leFlagsTarget" ID="1680030032">
+            <int name="Digit" value="100"/>
+            <int name="Type" value="211"/>
+            <int name="DomainType" value="0"/>
+            <obj class="LeFlagsValue" name="Value1" ID="1684764016">
+               <int name="Min" value="0"/>
+               <int name="Max" value="9"/>
+               <int name="Value" value="1"/>
+            </obj>
+            <obj class="LeUIntValue" name="Value2" ID="1677192384">
+               <int name="Min" value="0"/>
+               <int name="Max" value="2147483647"/>
+               <int name="Value" value="0"/>
+            </obj>
+         </obj>
+      </list>
+      <member name="PostName">
+         <string name="s" value=""/>
+      </member>
+      <member name="processType">
+         <int name="Value" value="1"/>
+         <int name="Min" value="0"/>
+         <int name="Max" value="8"/>
+      </member>
+      <member name="Context">
+         <int name="Value" value="1"/>
+         <int name="Min" value="0"/>
+         <int name="Max" value="2"/>
+      </member>
+      <int name="VersionMagic12" value="4608"/>
+      <int name="nPreProcessors" value="4"/>
+      <int name="nPostProcessors" value="4"/>
+      <list name="preCategory" type="string">
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+      </list>
+      <list name="preName" type="string">
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+      </list>
+      <list name="preState" type="int">
+         <item value="0"/>
+         <item value="0"/>
+         <item value="0"/>
+         <item value="0"/>
+      </list>
+      <list name="postCategory" type="string">
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+      </list>
+      <list name="postName" type="string">
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+      </list>
+      <list name="postState" type="int">
+         <item value="0"/>
+         <item value="0"/>
+         <item value="0"/>
+         <item value="0"/>
+      </list>
+   </member>
+   <bin name="Preset">
+		0040000001000000000000000A000000010017000000FEFFFFFF0D0000006C65
+		416374696F6E42617365000000FEFFFFFF09000000436D4F626A656374000000
+		FFFFFFFF130000006C65416374696F6E5461726765744E616D65000000770000
+		00000047010000A70F0000FEFFFFFF070000005556616C7565000000FFFFFFFF
+		0D00000055537472696E6756616C756500000009000000050000005F00EFBBBF
+		FEFFFFFF0A00000055496E7456616C7565000000FFFFFFFF120000004C654D61
+		6769634E616D657356616C756500000004000000000000004000008030000000
+		000047010000A70F00007C000080120000000E00000052656E756D6265722031
+		00EFBBBFB40000800400000003000000400000802700000000004A010000A70F
+		00007C00008009000000050000002000EFBBBF7C000080040000000000000040
+		0000802D00000000004A010000A70F00007C00008009000000050000003100EF
+		BBBF7C0000800A00000006000000303100EFBBBF400000802D00000000004A01
+		0000A70F00007C00008009000000050000003200EFBBBF7C0000800A00000006
+		000000303200EFBBBF400000802D00000000004A010000A70F00007C00008009
+		000000050000003300EFBBBF7C0000800A00000006000000303300EFBBBF4000
+		00802D00000000004A010000A70F00007C00008009000000050000003400EFBB
+		BF7C0000800A00000006000000303400EFBBBF400000802D00000000004A0100
+		00A70F00007C00008009000000050000003500EFBBBF7C0000800A0000000600
+		0000303500EFBBBF400000802D00000000004A010000A70F00007C0000800900
+		0000050000003600EFBBBF7C0000800A00000006000000303600EFBBBF400000
+		802D00000000004A010000A70F00007C00008009000000050000003700EFBBBF
+		7C0000800A00000006000000303700EFBBBF400000802D00000000004A010000
+		A70F00007C00008009000000050000003800EFBBBF7C0000800A000000060000
+		00303800EFBBBF400000802D00000000004A010000A70F00007C000080090000
+		00050000003900EFBBBF7C0000800A00000006000000303900EFBBBF40000080
+		2F00000000004A010000A70F00007C0000800B0000000700000030313000EFBB
+		BF7C0000800A00000006000000313000EFBBBF400000802F00000000004A0100
+		00A70F00007C0000800B0000000700000031303100EFBBBF7C0000800A000000
+		06000000313100EFBBBF400000802F00000000004A010000A70F00007C000080
+		0B0000000700000031303200EFBBBF7C0000800A00000006000000313200EFBB
+		BF400000802F00000000004A010000A70F00007C0000800B0000000700000031
+		303300EFBBBF7C0000800A00000006000000313300EFBBBF400000802F000000
+		00004A010000A70F00007C0000800B0000000700000031303400EFBBBF7C0000
+		800A00000006000000313400EFBBBF400000802F00000000004A010000A70F00
+		007C0000800B0000000700000031303500EFBBBF7C0000800A00000006000000
+		313500EFBBBF400000802F00000000004A010000A70F00007C0000800B000000
+		0700000031303600EFBBBF7C0000800A00000006000000313600EFBBBF400000
+		802F00000000004A010000A70F00007C0000800B0000000700000031303700EF
+		BBBF7C0000800A00000006000000313700EFBBBF400000802F00000000004A01
+		0000A70F00007C0000800B0000000700000031303800EFBBBF7C0000800A0000
+		0006000000313800EFBBBF400000802F00000000004A010000A70F00007C0000
+		800B0000000700000031303900EFBBBF7C0000800A00000006000000313900EF
+		BBBF400000802F00000000004A010000A70F00007C0000800B00000007000000
+		30323000EFBBBF7C0000800A00000006000000323000EFBBBF0A000000010003
+		000000FEFFFFFF120000006C65436F6E646974696F6E546172676574000000FE
+		FFFFFF080000006C65546F6B656E000000FFFFFFFF120000006C654D65646961
+		547970655461726765740000005500000064000000C800000000000000FFFFFF
+		FF110000004C654D656469615479706556616C75650000000400000003000000
+		FFFFFFFF0C0000004C6555496E7456616C75650000000C00000000000000FF00
+		0000000000009F0500800400000067000000FFFFFFFF0E0000006C65466C6167
+		735461726765740000004700000064000000D300000000000000FFFFFFFF0D00
+		00004C65466C61677356616C75650000000C0000000000000009000000010000
+		00000600800C00000000000000FFFFFF7F000000000000000001000000010000
+		0000000000001100000000000000000000
+   </bin>
+</Project_Logical_EditorPreset>

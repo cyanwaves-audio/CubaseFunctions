@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project_Logical_EditorPreset>
+   <list name="Version" type="list">
+      <item>
+         <string name="AppName" value="Cubase"/>
+         <int name="AppVersion" value="13"/>
+      </item>
+   </list>
+   <member name="Attributes">
+      <int name="VersionMagic" value="16384"/>
+      <member name="ExpertSetting">
+         <int name="Value" value="1"/>
+         <int name="Min" value="0"/>
+         <int name="Max" value="1"/>
+      </member>
+      <member name="Info">
+         <string name="s" value="" wide="true"/>
+      </member>
+      <list name="Filter" type="obj">
+         <obj class="leMediaTypeTarget" ID="1926649184">
+            <int name="Digit" value="100"/>
+            <int name="Type" value="200"/>
+            <int name="DomainType" value="0"/>
+            <obj class="LeMediaTypeValue" name="Value1" ID="915778400">
+               <int name="Val" value="0"/>
+            </obj>
+            <obj class="LeUIntValue" name="Value2" ID="915779040">
+               <int name="Min" value="0"/>
+               <int name="Max" value="255"/>
+               <int name="Value" value="0"/>
+            </obj>
+         </obj>
+         <obj class="leToken" ID="1681474352">
+            <int name="Digit" value="104"/>
+         </obj>
+         <obj class="leMediaTypeTarget" ID="1679926656">
+            <int name="Digit" value="100"/>
+            <int name="Type" value="200"/>
+            <int name="DomainType" value="0"/>
+            <obj class="LeMediaTypeValue" name="Value1" ID="1681360960">
+               <int name="Val" value="1"/>
+            </obj>
+            <obj class="LeUIntValue" name="Value2" ID="1681357120">
+               <int name="Min" value="0"/>
+               <int name="Max" value="255"/>
+               <int name="Value" value="0"/>
+            </obj>
+         </obj>
+         <obj class="leToken" ID="1079633840">
+            <int name="Digit" value="104"/>
+         </obj>
+         <obj class="leMediaTypeTarget" ID="1538206560">
+            <int name="Digit" value="100"/>
+            <int name="Type" value="200"/>
+            <int name="DomainType" value="0"/>
+            <obj class="LeMediaTypeValue" name="Value1" ID="1081609392">
+               <int name="Val" value="10"/>
+            </obj>
+            <obj class="LeUIntValue" name="Value2" ID="1081611712">
+               <int name="Min" value="0"/>
+               <int name="Max" value="255"/>
+               <int name="Value" value="0"/>
+            </obj>
+         </obj>
+         <obj class="leToken" ID="156050128">
+            <int name="Digit" value="104"/>
+         </obj>
+         <obj class="leMediaTypeTarget" ID="1675052688">
+            <int name="Digit" value="100"/>
+            <int name="Type" value="200"/>
+            <int name="DomainType" value="0"/>
+            <obj class="LeMediaTypeValue" name="Value1" ID="699809696">
+               <int name="Val" value="11"/>
+            </obj>
+            <obj class="LeUIntValue" name="Value2" ID="699806896">
+               <int name="Min" value="0"/>
+               <int name="Max" value="255"/>
+               <int name="Value" value="0"/>
+            </obj>
+         </obj>
+         <obj class="leToken" ID="1079676816">
+            <int name="Digit" value="103"/>
+         </obj>
+         <obj class="leFlagsTarget" ID="1545634560">
+            <int name="Digit" value="100"/>
+            <int name="Type" value="211"/>
+            <int name="DomainType" value="0"/>
+            <obj class="LeFlagsValue" name="Value1" ID="1124372976">
+               <int name="Min" value="0"/>
+               <int name="Max" value="9"/>
+               <int name="Value" value="1"/>
+            </obj>
+            <obj class="LeUIntValue" name="Value2" ID="1685234496">
+               <int name="Min" value="0"/>
+               <int name="Max" value="2147483647"/>
+               <int name="Value" value="0"/>
+            </obj>
+         </obj>
+      </list>
+      <member name="PostName">
+         <string name="s" value="" wide="true"/>
+      </member>
+      <member name="processType">
+         <int name="Value" value="6"/>
+         <int name="Min" value="0"/>
+         <int name="Max" value="8"/>
+      </member>
+      <member name="Context">
+         <int name="Value" value="1"/>
+         <int name="Min" value="0"/>
+         <int name="Max" value="2"/>
+      </member>
+      <int name="VersionMagic12" value="4608"/>
+      <int name="nPreProcessors" value="4"/>
+      <int name="nPostProcessors" value="4"/>
+      <list name="preCategory" type="string">
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+      </list>
+      <list name="preName" type="string">
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+         <item value=""/>
+      </list>
+      <list name="preState" type="int">
+         <item value="0"/>
+         <item value="0"/>
+         <item value="0"/>
+         <item value="0"/>
+      </list>
+      <list name="postCategory" type="string">
+         <item value="Transport"/>
+         <item value="Marker"/>
+         <item value="Navigate"/>
+         <item value=""/>
+      </list>
+      <list name="postName" type="string">
+         <item value="Locators to Selection"/>
+         <item value="Insert Cycle Marker"/>
+         <item value="Right"/>
+         <item value=""/>
+      </list>
+      <list name="postState" type="int">
+         <item value="1"/>
+         <item value="1"/>
+         <item value="1"/>
+         <item value="0"/>
+      </list>
+   </member>
+   <bin name="Preset">
+		0040000001000000000000000A0000000100000000000A000000010009000000
+		FEFFFFFF120000006C65436F6E646974696F6E546172676574000000FEFFFFFF
+		080000006C65546F6B656E000000FEFFFFFF09000000436D4F626A6563740000
+		00FFFFFFFF120000006C654D65646961547970655461726765740000007A0000
+		0064000000C800000000000000FEFFFFFF0A00000055496E7456616C75650000
+		00FEFFFFFF070000005556616C7565000000FFFFFFFF110000004C654D656469
+		615479706556616C75650000000400000000000000FFFFFFFF0C0000004C6555
+		496E7456616C75650000000C00000000000000FF000000000000003C00008004
+		00000068000000610000802C00000064000000C800000000000000B200008004
+		00000001000000D50000800C00000000000000FF000000000000003C00008004
+		00000068000000610000802C00000064000000C800000000000000B200008004
+		0000000A000000D50000800C00000000000000FF000000000000003C00008004
+		00000068000000610000802C00000064000000C800000000000000B200008004
+		0000000B000000D50000800C00000000000000FF000000000000003C00008004
+		00000067000000FFFFFFFF0E0000006C65466C61677354617267657400000047
+		00000064000000D300000000000000FFFFFFFF0D0000004C65466C6167735661
+		6C75650000000C000000000000000900000001000000D50000800C0000000000
+		0000FFFFFF7F0000000000000000060000000100000000000000001100000000
+		000000000000
+   </bin>
+</Project_Logical_EditorPreset>
