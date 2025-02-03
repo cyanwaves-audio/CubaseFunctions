@@ -1,7 +1,16 @@
 ## Installation:
 For Windows, move them to your [User]\Documents\Steinberg\Cubase\User Presets\Project Logical Editor\ folder
 
-I recommend assigning a key/macro in the Cubase Key Commands for each.
+I recommend assigning a key/macro in the Cubase Key Commands for each.  
+   
+  
+  
+
+
+https://github.com/user-attachments/assets/bcf5046a-018f-41c6-b4bb-b9b9fdf3a94e  
+
+
+  
 
 
 ## Description and Usage:
