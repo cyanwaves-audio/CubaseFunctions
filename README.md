@@ -32,3 +32,7 @@ I recommend assigning a key/macro in the Cubase Key Commands for each.
   3. Rename them according to your basic naming scheme in the status bar (without numbers): like, FootstepsDirt
   4. The cycle markers will still be selected, use Ctrl+Alt+P.
      If, for example, you have 6 markers named FootstepsDirt selected, they will be renamed to FootstepsDirt_01, FootstepsDirt_02... FootstepsDirt_06.
+
+
+  If you find this useful, please consider buying me a coffe c:  
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6IPV5V)
